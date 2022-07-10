@@ -1,0 +1,26 @@
+[
+{
+	"AttackInterval": "0.35",
+	"Cost":"1",
+	"BulletID": "0",
+	"name": "手枪"
+},
+{
+	"AttackInterval": "0.5",
+	"Cost":"2",
+	"BulletID": "1",
+	"name": "手枪+"
+},
+{
+	"AttackInterval": "0.1",
+	"Cost":"1",
+	"BulletID": "2",
+	"name": "轻机枪"
+},
+{
+	"AttackInterval": "1",
+	"Cost":"4",
+	"BulletID": "3",
+	"name": "狙击枪"
+}
+]

@@ -1,0 +1,30 @@
+[
+{
+	"AttackInterval": "0.2",
+	"CheckRadius": "1.5",
+	"CheckAngle": "60.0",
+	"Damage": "1",
+	"name": "拳头"
+},
+{
+	"AttackInterval": "0.1",
+	"CheckRadius": "2.5",
+	"CheckAngle": "60.0",
+	"Damage": "2",
+	"name": "拳套"
+},
+{
+	"AttackInterval": "0.15",
+	"CheckRadius": "4",
+	"CheckAngle": "30",
+	"Damage": "4",
+	"name": "长枪"
+},
+{
+	"AttackInterval": "0.3",
+	"CheckRadius": "2.5",
+	"CheckAngle": "60.0",
+	"Damage": "6",
+	"name": "沉重的雕像"
+}
+]

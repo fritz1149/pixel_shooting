@@ -1,0 +1,26 @@
+[
+{
+	"speed": "0.6",
+	"CheckRadius": "0.1",
+	"Damage":"1",
+	"name": "最初"
+},
+{
+	"speed": "0.8",
+	"CheckRadius": "0.1",
+	"Damage":"3",
+	"name": "祝福"
+},
+{
+	"speed": "1.0",
+	"CheckRadius": "0.1",
+	"Damage":"1",
+	"name": "安逸"
+},
+{
+	"speed": "0.8",
+	"CheckRadius": "0.1",
+	"Damage":"6",
+	"name": "仁慈"
+}
+]

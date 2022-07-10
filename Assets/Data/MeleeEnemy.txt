@@ -1,0 +1,41 @@
+[
+{
+	"level":"0",
+	"speed":"0.1",
+	"MoveTime":"1.0",
+	"MoveInterval":"0.5",
+	"AttackInterval":"1.5",
+	"AttackRadius":"3.0",
+	"DiscoverRadius":"8.0",
+	"CheckAngle":"60.0",
+	"Damage":"2",
+	"Health":"5",
+	"name": "邪恶泡泡"
+},
+{
+	"level":"1",
+	"speed":"0.2",
+	"MoveTime":"0.3",
+	"MoveInterval":"0.1",
+	"AttackInterval":"1.0",
+	"AttackRadius":"4.0",
+	"DiscoverRadius":"15.0",
+	"CheckAngle":"360.0",
+	"Damage":"4",
+	"Health":"15",
+	"name": "球体"
+},
+{
+	"level":"2",
+	"speed":"0.25",
+	"MoveTime":"3.0",
+	"MoveInterval":"3.0",
+	"AttackInterval":"0.7",
+	"AttackRadius":"4.0",
+	"DiscoverRadius":"25.0",
+	"CheckAngle":"360.0",
+	"Damage":"6",
+	"Health":"30",
+	"name": "一棵树"
+}
+]

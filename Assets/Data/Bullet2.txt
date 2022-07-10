@@ -1,0 +1,20 @@
+[
+{
+	"speed": "0.25",
+	"CheckRadius": "0.1",
+	"Damage":"1",
+	"name": "原始"
+},
+{
+	"speed": "0.3",
+	"CheckRadius": "0.1",
+	"Damage":"5",
+	"name": "啃噬"
+},
+{
+	"speed": "0.4",
+	"CheckRadius": "0.1",
+	"Damage":"7",
+	"name": "愤怒"
+}
+]

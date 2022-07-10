@@ -1,0 +1,121 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Outer
+  - Objects
+  - Edge
+  - Bullet1
+  - Bullet2
+  - Weap1
+  - Weap0
+  - Bullet0
+  - 1717
+  - 1723
+  - 2317
+  - 2323
+  - 99
+  - 912
+  - 129
+  - 1212
+  - 99C
+  - 912C
+  - 129C
+  - 1212C
+  - 5
+  - 5C
+  - level1
+  - level2
+  - level0
+  - GM
+  - Box
+  - InBox
+  - InBag
+  - UM
+  - CheckBox
+  - Paper4
+  - PipeC
+  - PipeR
+  - Interface
+  - Data
+  - 5_
+  - 5C_
+  - health
+  - PlayerInfo
+  - Weap
+  - Lost
+  - H0
+  - H1
+  - H2
+  - E1
+  - E0
+  - E2
+  - M0
+  - M1
+  - M2
+  - B1
+  - B0
+  - B2
+  - Effect
+  - Temp
+  - C1
+  - C2
+  - SkillTree
+  - Hurt
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Edge
+  - Enemy
+  - Player
+  - Bullet1
+  - Bullet2
+  - room
+  - Box
+  - Edge_
+  - Ghost
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2037812227
+    locked: 0
+  - name: Edge
+    uniqueID: 2392015107
+    locked: 0
+  - name: Objects
+    uniqueID: 402871791
+    locked: 0
+  - name: Bullets
+    uniqueID: 2048085747
+    locked: 0
+  - name: Figures
+    uniqueID: 3516191437
+    locked: 0
+  - name: UI
+    uniqueID: 318951641
+    locked: 0

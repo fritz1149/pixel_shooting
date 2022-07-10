@@ -1,0 +1,38 @@
+[
+{
+	"level":"0",
+	"speed": "0.1",
+	"MoveTime":"1.0",
+	"MoveInterval":"0.5",
+	"AttackRadius":"8.0",
+	"AttackInterval":"1.5",
+	"DiscoverRadius":"10.0",
+	"Health":"5",
+	"BulletID":"0",
+	"name": "邪恶泡泡"
+},
+{
+	"level":"1",
+	"speed":"0.2",
+	"MoveTime":"1.0",
+	"MoveInterval":"0.5",
+	"AttackRadius":"15.0",
+	"AttackInterval":"1.2",
+	"DiscoverRadius":"15.0",
+	"Health":"15",
+	"BulletID":"1",
+	"name": "兔叽1"
+},
+{
+	"level":"2",
+	"speed":"0.15",
+	"MoveTime":"2.0",
+	"MoveInterval":"0.25",
+	"AttackRadius":"25.0",
+	"AttackInterval":"0.5",
+	"DiscoverRadius":"30.0",
+	"Health":"30",
+	"BulletID":"2",
+	"name": "兔叽2"
+}
+]
